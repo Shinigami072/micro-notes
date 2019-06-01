@@ -29,4 +29,5 @@ fucntion arguments:
   5. ​%r8​,
   6. ​%r9​ 
   
-  
+https://filippo.io/linux-syscall-table/
+https://en.wikibooks.org/wiki/X86_Assembly/Interfacing_with_Linux
